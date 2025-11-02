@@ -1,4 +1,4 @@
-# 训练和测试
+# Train or test
 
 ```markdown
 # training:
